@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @sj-skr
+- 🎩 my name is sajjad askari
 - 👀 I’m interested in c#
 - 🌱 I’m currently learning asp.net core RP
 - 💞️ I’m looking to collaborate on ...
